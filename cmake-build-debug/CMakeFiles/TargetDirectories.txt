@@ -1,0 +1,3 @@
+/home/pavel/numerical_methods/laba_2_2/cmake-build-debug/CMakeFiles/laba_2_2.dir
+/home/pavel/numerical_methods/laba_2_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pavel/numerical_methods/laba_2_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
